@@ -1,4 +1,4 @@
-<h1 align="center">TrafficBotPro GA Ahrefs Booster</h1>
+<h1 align="center">Traffic BotPro GA Ahrefs Booster</h1>
 
 <div align="center">
   <img
