@@ -1,5 +1,14 @@
 <h1 align="center">Traffic BotPro GA Ahrefs Booster</h1>
 
+## Project Overview:
+This project simulates high-volume, geo-targeted, and human-like web traffic that registers cleanly across major analytics platforms like Google Analytics and Ahrefs. It’s designed for marketers, SEOs persons who want to artificially amplify traffic metrics, test site performance under load, or push URLs for SEO juice without triggering detection systems. Inspired by discussions on forums like BHW, this bot focuses on stealth and effectiveness.
+
+
+## Core Features:
+- **Stealth Analytics Reporting** – Designed to pass undetected through Google Analytics and Ahrefs with legit-looking metrics.
+- **Geo + Device Spoofing** – Randomized IPs, user-agents, referrers, and bounce timings that simulate organic user behavior.
+- **Auto-Scheduling & Scaling** – Configure campaign-based traffic boosts with concurrency management and uptime handling.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,15 +71,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-This project simulates high-volume, geo-targeted, and human-like web traffic that registers cleanly across major analytics platforms like Google Analytics and Ahrefs. It’s designed for marketers, SEOs persons who want to artificially amplify traffic metrics, test site performance under load, or push URLs for SEO juice without triggering detection systems. Inspired by discussions on forums like BHW, this bot focuses on stealth and effectiveness.
-
-
-## Core Strengths:
-- **Stealth Analytics Reporting** – Designed to pass undetected through Google Analytics and Ahrefs with legit-looking metrics.
-- **Geo + Device Spoofing** – Randomized IPs, user-agents, referrers, and bounce timings that simulate organic user behavior.
-- **Auto-Scheduling & Scaling** – Configure campaign-based traffic boosts with concurrency management and uptime handling.
 
 ## Features List:
 | Feature                   | Description                                                              |
